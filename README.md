@@ -1,5 +1,5 @@
 # ejs-blog
-Türkçe Ejs ile hazırlanmış blog
+Node, Express, Ejs ve MongoDB kullanan iyi bir basit blog
 # Admin Paneli
 http://localhost:3000/auth <br>
 Kullanıcı adı:Test<br>
